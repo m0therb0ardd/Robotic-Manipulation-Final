@@ -1,0 +1,6 @@
+
+Citations
+
+1. Luke Batteas helped me with lines 136 - 145 of Checkpoint 2
+2. Pushkar Dave suggested adding this to help with debugging 
+3. Pushkar Dave helped me debug and identifed sign error in my rotation matrix in my NextState function

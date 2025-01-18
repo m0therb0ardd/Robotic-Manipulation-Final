@@ -1,0 +1,15 @@
+
+Best Values:
+
+    Tsc_ini = np.array ([[1, 0 , 0 , 1],
+                         [0, 1, 0, 0, ],
+                         [0, 0, 1, 0.025],
+                         [0, 0, 0, 1]])
+    
+    Tsc_fin = np.array([[0, 1, 0, 1.5],
+                      [-1, 0, 0, 0],
+                      [0, 0, 1, 0.025],
+                      [0, 0, 0, 1]])
+
+    kp = np.eye(6) * 1 #  proportional gain
+    ki = np.eye(6) * 0.1  #  integral gain

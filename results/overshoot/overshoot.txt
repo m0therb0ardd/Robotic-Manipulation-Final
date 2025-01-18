@@ -1,0 +1,3 @@
+
+    kp = np.eye(6) * 0 #  proportional gain
+    ki = np.eye(6) * 100  #  integral gain
